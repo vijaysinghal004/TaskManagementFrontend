@@ -1,5 +1,5 @@
 import React from 'react'
-import UserDeshboard from '../components/userDeshboard'
+import UserDeshboard from '../components/UserDeshboard'
 import OwnerDeshboard from '../components/OwnerDeshboard'
 import { useSelector } from 'react-redux'
 
