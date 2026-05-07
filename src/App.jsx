@@ -16,7 +16,7 @@ import useGetMembers from './hooks/UseGetMembers'
 import useGetProject from './hooks/UseGetProject'
 import EditProject from './pages/EditProject'
 
-export const serverUrl = 'http://localhost:8080';
+export const serverUrl = 'https://taskmanagementbackend-rah0.onrender.com';
 
 const App = () => {
 
