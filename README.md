@@ -1,25 +1,47 @@
-#  MediCare Frontend
+# 🎯 Task Management System - Frontend
 
-Frontend for MediCare Doctor Appointment Booking System.
+Frontend of a full-stack Task/Project Management System built using React.
 
-##  Tech Stack
+---
+
+## 🚀 Features
+
+- 👤 User Login & Registration UI
+- 🧑‍💼 Role-based Dashboard (Admin/User)
+- 📁 Project Listing & Details
+- ✅ Task Progress Tracking
+- 🔄 Join Project Feature
+- 📊 Dynamic Status Updates
+- ⚡ Responsive UI (Mobile + Desktop)
+
+---
+
+## 🛠️ Tech Stack
 
 - React.js
-- Redux
-- Tailwind CSS
-- Axios
+- Redux Toolkit
 - React Router DOM
+- Axios
+- React Icons
 
 ---
 
-##  Features
+## 📂 Folder Structure
+src/
+│── components/
+│── pages/
+│── redux/
+│── services/
+│── App.js
+│── index.js
 
-- Book Appointment UI
-- View My Appointments
-- Loading & Success UI
-- Fully Booked Doctor Button
-- Protected Routes
 
 ---
 
+## ⚙️ Installation
+
+```bash id="front2"
+cd client
+npm install
+npm run dev
 
